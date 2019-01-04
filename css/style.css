@@ -58,6 +58,7 @@ img {
 }
 
 footer {
+	display: block;
 	float: right;
 	font-size: .75em;
 	margin-top: 20px;
